@@ -10,6 +10,14 @@ Whether it's Netflix, Spotify, AWS, ChatGPT, or any other recurring service, Sub
 
 ---
 
+## 🌐 Live Demo
+
+| Application | URL                                    |
+| ----------- | -------------------------------------- |
+| Backend API | **https://subvault.milankharel.com.np** |
+
+---
+
 ## Features
 
 ### Authentication & Security
